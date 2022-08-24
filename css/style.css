@@ -1,0 +1,26 @@
+.colorFondo {
+  background-color: #ff7ea8 !important;
+}
+
+.sizeFree {
+  width: 15rem;
+}
+
+.seccionIni {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.colorFondo2 {
+  width: 100%;
+  min-height: 100vh;
+
+}
+.rowImg {
+  display: flex;
+  justify-content: center;
+}
+
+.sizeIMG {
+  width: 15rem;
+}
